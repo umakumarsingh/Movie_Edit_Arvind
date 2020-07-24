@@ -1,0 +1,281 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\MoviePreFSEmaster\\MoviePreFSEmaster\\MoviePreFSEmaster.csproj": {}
+  },
+  "projects": {
+    "D:\\MoviePreFSEmaster\\MoviePreFSEmaster.BusinessLayer\\MoviePreFSEmaster.BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MoviePreFSEmaster\\MoviePreFSEmaster.BusinessLayer\\MoviePreFSEmaster.BusinessLayer.csproj",
+        "projectName": "MoviePreFSEmaster.BusinessLayer",
+        "projectPath": "D:\\MoviePreFSEmaster\\MoviePreFSEmaster.BusinessLayer\\MoviePreFSEmaster.BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\KUMARUMA\\.nuget\\packages\\",
+        "outputPath": "D:\\MoviePreFSEmaster\\MoviePreFSEmaster.BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\KUMARUMA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\MoviePreFSEmaster\\MoviePreFSEMaster.DataLayer\\MoviePreFSEMaster.DataLayer.csproj": {
+                "projectPath": "D:\\MoviePreFSEmaster\\MoviePreFSEMaster.DataLayer\\MoviePreFSEMaster.DataLayer.csproj"
+              },
+              "D:\\MoviePreFSEmaster\\MoviePreFSEMaster.Entities\\MoviePreFSEMaster.Entities.csproj": {
+                "projectPath": "D:\\MoviePreFSEmaster\\MoviePreFSEMaster.Entities\\MoviePreFSEMaster.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MoviePreFSEmaster\\MoviePreFSEMaster.DataLayer\\MoviePreFSEMaster.DataLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MoviePreFSEmaster\\MoviePreFSEMaster.DataLayer\\MoviePreFSEMaster.DataLayer.csproj",
+        "projectName": "MoviePreFSEMaster.DataLayer",
+        "projectPath": "D:\\MoviePreFSEmaster\\MoviePreFSEMaster.DataLayer\\MoviePreFSEMaster.DataLayer.csproj",
+        "packagesPath": "C:\\Users\\KUMARUMA\\.nuget\\packages\\",
+        "outputPath": "D:\\MoviePreFSEmaster\\MoviePreFSEMaster.DataLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\KUMARUMA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MoviePreFSEmaster\\MoviePreFSEMaster.Entities\\MoviePreFSEMaster.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MoviePreFSEmaster\\MoviePreFSEMaster.Entities\\MoviePreFSEMaster.Entities.csproj",
+        "projectName": "MoviePreFSEMaster.Entities",
+        "projectPath": "D:\\MoviePreFSEmaster\\MoviePreFSEMaster.Entities\\MoviePreFSEMaster.Entities.csproj",
+        "packagesPath": "C:\\Users\\KUMARUMA\\.nuget\\packages\\",
+        "outputPath": "D:\\MoviePreFSEmaster\\MoviePreFSEMaster.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\KUMARUMA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.8.1, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MoviePreFSEmaster\\MoviePreFSEmaster\\MoviePreFSEmaster.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MoviePreFSEmaster\\MoviePreFSEmaster\\MoviePreFSEmaster.csproj",
+        "projectName": "MoviePreFSEmaster",
+        "projectPath": "D:\\MoviePreFSEmaster\\MoviePreFSEmaster\\MoviePreFSEmaster.csproj",
+        "packagesPath": "C:\\Users\\KUMARUMA\\.nuget\\packages\\",
+        "outputPath": "D:\\MoviePreFSEmaster\\MoviePreFSEmaster\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\KUMARUMA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\MoviePreFSEmaster\\MoviePreFSEmaster.BusinessLayer\\MoviePreFSEmaster.BusinessLayer.csproj": {
+                "projectPath": "D:\\MoviePreFSEmaster\\MoviePreFSEmaster.BusinessLayer\\MoviePreFSEmaster.BusinessLayer.csproj"
+              },
+              "D:\\MoviePreFSEmaster\\MoviePreFSEMaster.DataLayer\\MoviePreFSEMaster.DataLayer.csproj": {
+                "projectPath": "D:\\MoviePreFSEmaster\\MoviePreFSEMaster.DataLayer\\MoviePreFSEMaster.DataLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

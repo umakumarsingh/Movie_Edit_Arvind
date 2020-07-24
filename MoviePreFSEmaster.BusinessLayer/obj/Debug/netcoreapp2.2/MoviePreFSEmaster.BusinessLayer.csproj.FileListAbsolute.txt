@@ -1,0 +1,14 @@
+D:\MoviePreFSEmaster\MoviePreFSEmaster.BusinessLayer\bin\Debug\netcoreapp2.2\MoviePreFSEmaster.BusinessLayer.deps.json
+D:\MoviePreFSEmaster\MoviePreFSEmaster.BusinessLayer\bin\Debug\netcoreapp2.2\MoviePreFSEmaster.BusinessLayer.dll
+D:\MoviePreFSEmaster\MoviePreFSEmaster.BusinessLayer\bin\Debug\netcoreapp2.2\MoviePreFSEmaster.BusinessLayer.pdb
+D:\MoviePreFSEmaster\MoviePreFSEmaster.BusinessLayer\bin\Debug\netcoreapp2.2\MoviePreFSEMaster.DataLayer.dll
+D:\MoviePreFSEmaster\MoviePreFSEmaster.BusinessLayer\bin\Debug\netcoreapp2.2\MoviePreFSEMaster.Entities.dll
+D:\MoviePreFSEmaster\MoviePreFSEmaster.BusinessLayer\bin\Debug\netcoreapp2.2\MoviePreFSEMaster.DataLayer.pdb
+D:\MoviePreFSEmaster\MoviePreFSEmaster.BusinessLayer\bin\Debug\netcoreapp2.2\MoviePreFSEMaster.Entities.pdb
+D:\MoviePreFSEmaster\MoviePreFSEmaster.BusinessLayer\obj\Debug\netcoreapp2.2\MoviePreFSEmaster.BusinessLayer.csprojAssemblyReference.cache
+D:\MoviePreFSEmaster\MoviePreFSEmaster.BusinessLayer\obj\Debug\netcoreapp2.2\MoviePreFSEmaster.BusinessLayer.AssemblyInfoInputs.cache
+D:\MoviePreFSEmaster\MoviePreFSEmaster.BusinessLayer\obj\Debug\netcoreapp2.2\MoviePreFSEmaster.BusinessLayer.AssemblyInfo.cs
+D:\MoviePreFSEmaster\MoviePreFSEmaster.BusinessLayer\obj\Debug\netcoreapp2.2\MoviePreFSEmaster.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\MoviePreFSEmaster\MoviePreFSEmaster.BusinessLayer\obj\Debug\netcoreapp2.2\MoviePreFSEmaster.BusinessLayer.csproj.CopyComplete
+D:\MoviePreFSEmaster\MoviePreFSEmaster.BusinessLayer\obj\Debug\netcoreapp2.2\MoviePreFSEmaster.BusinessLayer.dll
+D:\MoviePreFSEmaster\MoviePreFSEmaster.BusinessLayer\obj\Debug\netcoreapp2.2\MoviePreFSEmaster.BusinessLayer.pdb

@@ -1,0 +1,9 @@
+D:\MoviePreFSEmaster\MoviePreFSEMaster.Entities\bin\Debug\netcoreapp2.2\MoviePreFSEMaster.Entities.deps.json
+D:\MoviePreFSEmaster\MoviePreFSEMaster.Entities\bin\Debug\netcoreapp2.2\MoviePreFSEMaster.Entities.dll
+D:\MoviePreFSEmaster\MoviePreFSEMaster.Entities\bin\Debug\netcoreapp2.2\MoviePreFSEMaster.Entities.pdb
+D:\MoviePreFSEmaster\MoviePreFSEMaster.Entities\obj\Debug\netcoreapp2.2\MoviePreFSEMaster.Entities.AssemblyInfoInputs.cache
+D:\MoviePreFSEmaster\MoviePreFSEMaster.Entities\obj\Debug\netcoreapp2.2\MoviePreFSEMaster.Entities.AssemblyInfo.cs
+D:\MoviePreFSEmaster\MoviePreFSEMaster.Entities\obj\Debug\netcoreapp2.2\MoviePreFSEMaster.Entities.csproj.CoreCompileInputs.cache
+D:\MoviePreFSEmaster\MoviePreFSEMaster.Entities\obj\Debug\netcoreapp2.2\MoviePreFSEMaster.Entities.dll
+D:\MoviePreFSEmaster\MoviePreFSEMaster.Entities\obj\Debug\netcoreapp2.2\MoviePreFSEMaster.Entities.pdb
+D:\MoviePreFSEmaster\MoviePreFSEMaster.Entities\obj\Debug\netcoreapp2.2\MoviePreFSEMaster.Entities.csprojAssemblyReference.cache

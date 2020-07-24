@@ -1,0 +1,8 @@
+C:\Users\ARVIND\source\repos\MoviePreFSEmaster\MoviePreFSEMaster.DataLayer\bin\Debug\netcoreapp3.1\MoviePreFSEMaster.DataLayer.deps.json
+C:\Users\ARVIND\source\repos\MoviePreFSEmaster\MoviePreFSEMaster.DataLayer\bin\Debug\netcoreapp3.1\MoviePreFSEMaster.DataLayer.dll
+C:\Users\ARVIND\source\repos\MoviePreFSEmaster\MoviePreFSEMaster.DataLayer\bin\Debug\netcoreapp3.1\MoviePreFSEMaster.DataLayer.pdb
+C:\Users\ARVIND\source\repos\MoviePreFSEmaster\MoviePreFSEMaster.DataLayer\obj\Debug\netcoreapp3.1\MoviePreFSEMaster.DataLayer.csprojAssemblyReference.cache
+C:\Users\ARVIND\source\repos\MoviePreFSEmaster\MoviePreFSEMaster.DataLayer\obj\Debug\netcoreapp3.1\MoviePreFSEMaster.DataLayer.AssemblyInfoInputs.cache
+C:\Users\ARVIND\source\repos\MoviePreFSEmaster\MoviePreFSEMaster.DataLayer\obj\Debug\netcoreapp3.1\MoviePreFSEMaster.DataLayer.AssemblyInfo.cs
+C:\Users\ARVIND\source\repos\MoviePreFSEmaster\MoviePreFSEMaster.DataLayer\obj\Debug\netcoreapp3.1\MoviePreFSEMaster.DataLayer.dll
+C:\Users\ARVIND\source\repos\MoviePreFSEmaster\MoviePreFSEMaster.DataLayer\obj\Debug\netcoreapp3.1\MoviePreFSEMaster.DataLayer.pdb

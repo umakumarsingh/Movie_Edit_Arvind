@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MoviePreFSEMaster.DataLayer\MoviePreFSEMaster.DataLayer.csproj" />
+    <ProjectReference Include="..\MoviePreFSEMaster.Entities\MoviePreFSEMaster.Entities.csproj" />
+  </ItemGroup>
+
+
+</Project>

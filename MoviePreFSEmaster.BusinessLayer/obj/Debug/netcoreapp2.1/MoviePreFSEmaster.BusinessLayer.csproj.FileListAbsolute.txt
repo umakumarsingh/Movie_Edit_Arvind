@@ -1,0 +1,8 @@
+C:\Users\ARVIND\source\repos\MoviePreFSEmaster\MoviePreFSEmaster.BusinessLayer\obj\Debug\netcoreapp2.1\MoviePreFSEmaster.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\ARVIND\source\repos\MoviePreFSEmaster\MoviePreFSEmaster.BusinessLayer\obj\Debug\netcoreapp2.1\MoviePreFSEmaster.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\ARVIND\source\repos\MoviePreFSEmaster\MoviePreFSEmaster.BusinessLayer\obj\Debug\netcoreapp2.1\MoviePreFSEmaster.BusinessLayer.AssemblyInfo.cs
+C:\Users\ARVIND\source\repos\MoviePreFSEmaster\MoviePreFSEmaster.BusinessLayer\obj\Debug\netcoreapp2.1\MoviePreFSEmaster.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\MoviePreFSEmaster\MoviePreFSEmaster.BusinessLayer\obj\Debug\netcoreapp2.1\MoviePreFSEmaster.BusinessLayer.csprojAssemblyReference.cache
+D:\MoviePreFSEmaster\MoviePreFSEmaster.BusinessLayer\obj\Debug\netcoreapp2.1\MoviePreFSEmaster.BusinessLayer.AssemblyInfoInputs.cache
+D:\MoviePreFSEmaster\MoviePreFSEmaster.BusinessLayer\obj\Debug\netcoreapp2.1\MoviePreFSEmaster.BusinessLayer.AssemblyInfo.cs
+D:\MoviePreFSEmaster\MoviePreFSEmaster.BusinessLayer\obj\Debug\netcoreapp2.1\MoviePreFSEmaster.BusinessLayer.csproj.CoreCompileInputs.cache
