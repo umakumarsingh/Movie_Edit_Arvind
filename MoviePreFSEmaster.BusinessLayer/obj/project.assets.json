@@ -2384,11 +2384,12 @@
       ]
     },
     "runtime.native.System.Net.Security/4.3.0": {
-      "sha512": "FiRNqPaVqEP7VboZzv3vGnHB0X8liUhpgCdguCWerVh46Kvhap7f+6JZUqOTOUGVnyPUfFCjYY2s1guE6BY4Wg==",
+      "sha512": "M2nN92ePS8BgQ2oi6Jj3PlTUzadYSIWLdZrHY1n1ZcW9o4wAQQ6W+aQ2lfq1ysZQfVCgDwY58alUdowrzezztg==",
       "type": "package",
       "path": "runtime.native.system.net.security/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -5407,11 +5408,12 @@
       ]
     },
     "System.Security.Principal.Windows/4.3.0": {
-      "sha512": "Pc7Xs5R6epMO5aM8qyUorkGGTrzeEXkCwfHnLXnpTGFh4Zntlbzw3hk2G82K77TOWDTOlLK/zDP8+7xuKVd8og==",
+      "sha512": "HVL1rvqYtnRCxFsYag/2le/ZfKLK4yMw79+s6FmKXbSCNN0JeAhrYxnRAHFoWRa0dEojsDcbBSpH3l22QxAVyw==",
       "type": "package",
       "path": "system.security.principal.windows/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/net46/System.Security.Principal.Windows.dll",
@@ -5791,11 +5793,12 @@
       ]
     },
     "System.Threading.ThreadPool/4.3.0": {
-      "sha512": "93UoaW6hwxhe/AMWRSTOlveskjyV4usMF0vUEZp52jZseqNyV5rUXg2Bmkkmrc9lUl35U0y4KSb9bdr2aeRIRw==",
+      "sha512": "k/+g4b7vjdd4aix83sTgC9VG6oXYKAktSfNIJUNGxPEj7ryEOfzHHhfnmsZvjxawwcD9HyWXKCXmPjX8U4zeSw==",
       "type": "package",
       "path": "system.threading.threadpool/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5848,23 +5851,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\KUMARUMA\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\ARVIND\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MoviePreFSEmaster\\MoviePreFSEmaster.BusinessLayer\\MoviePreFSEmaster.BusinessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\IIHT PROJECT\\Movie_master\\Movie_Arvind-master\\MoviePreFSEmaster.BusinessLayer\\MoviePreFSEmaster.BusinessLayer.csproj",
       "projectName": "MoviePreFSEmaster.BusinessLayer",
-      "projectPath": "D:\\MoviePreFSEmaster\\MoviePreFSEmaster.BusinessLayer\\MoviePreFSEmaster.BusinessLayer.csproj",
-      "packagesPath": "C:\\Users\\KUMARUMA\\.nuget\\packages\\",
-      "outputPath": "D:\\MoviePreFSEmaster\\MoviePreFSEmaster.BusinessLayer\\obj\\",
+      "projectPath": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\IIHT PROJECT\\Movie_master\\Movie_Arvind-master\\MoviePreFSEmaster.BusinessLayer\\MoviePreFSEmaster.BusinessLayer.csproj",
+      "packagesPath": "C:\\Users\\ARVIND\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\IIHT PROJECT\\Movie_master\\Movie_Arvind-master\\MoviePreFSEmaster.BusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\KUMARUMA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ARVIND\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5877,11 +5876,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\MoviePreFSEmaster\\MoviePreFSEMaster.DataLayer\\MoviePreFSEMaster.DataLayer.csproj": {
-              "projectPath": "D:\\MoviePreFSEmaster\\MoviePreFSEMaster.DataLayer\\MoviePreFSEMaster.DataLayer.csproj"
+            "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\IIHT PROJECT\\Movie_master\\Movie_Arvind-master\\MoviePreFSEMaster.DataLayer\\MoviePreFSEMaster.DataLayer.csproj": {
+              "projectPath": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\IIHT PROJECT\\Movie_master\\Movie_Arvind-master\\MoviePreFSEMaster.DataLayer\\MoviePreFSEMaster.DataLayer.csproj"
             },
-            "D:\\MoviePreFSEmaster\\MoviePreFSEMaster.Entities\\MoviePreFSEMaster.Entities.csproj": {
-              "projectPath": "D:\\MoviePreFSEmaster\\MoviePreFSEMaster.Entities\\MoviePreFSEMaster.Entities.csproj"
+            "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\IIHT PROJECT\\Movie_master\\Movie_Arvind-master\\MoviePreFSEMaster.Entities\\MoviePreFSEMaster.Entities.csproj": {
+              "projectPath": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\IIHT PROJECT\\Movie_master\\Movie_Arvind-master\\MoviePreFSEMaster.Entities\\MoviePreFSEMaster.Entities.csproj"
             }
           }
         }
@@ -5912,7 +5911,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

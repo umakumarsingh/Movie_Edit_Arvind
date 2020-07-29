@@ -58,6 +58,26 @@ namespace MoviePreFSEmaster.Controllers
             }
         }
 
+
+
+
+        //Get Movie by Id  SearchByMovieByIdAsync(string MovieId)
+      
+        [HttpGet("{id}")]
+        public async Task<IActionResult> SearchByMovieByIdAsync(string MovieId)
+        {
+            //Write Code Here
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+            var Result = await _movieservices.SearchByMovieByIdAsync(MovieId);
+            if (Result == null)
+            {
+                return NotFound();
+            }
+            return Ok(Result);
+        }
         // PUT api/<MoviePreFSEmaster>/5
         [HttpPut("{id}")]
         public void Put(int id, [FromBody] string value)

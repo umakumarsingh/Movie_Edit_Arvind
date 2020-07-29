@@ -40,3 +40,44 @@ D:\MoviePreFSEmaster\MoviePreFSEmaster\obj\Debug\netcoreapp2.2\MoviePreFSEmaster
 D:\MoviePreFSEmaster\MoviePreFSEmaster\obj\Debug\netcoreapp2.2\MoviePreFSEmaster.dll
 D:\MoviePreFSEmaster\MoviePreFSEmaster\obj\Debug\netcoreapp2.2\MoviePreFSEmaster.pdb
 D:\MoviePreFSEmaster\MoviePreFSEmaster\obj\Debug\netcoreapp2.2\MoviePreFSEmaster.genruntimeconfig.cache
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\bin\Debug\netcoreapp2.2\MoviePreFSEmaster.deps.json
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\bin\Debug\netcoreapp2.2\MoviePreFSEmaster.runtimeconfig.json
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\bin\Debug\netcoreapp2.2\MoviePreFSEmaster.runtimeconfig.dev.json
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\bin\Debug\netcoreapp2.2\MoviePreFSEmaster.dll
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\bin\Debug\netcoreapp2.2\MoviePreFSEmaster.pdb
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\bin\Debug\netcoreapp2.2\MoviePreFSEmaster.Views.dll
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\bin\Debug\netcoreapp2.2\MoviePreFSEmaster.Views.pdb
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\bin\Debug\netcoreapp2.2\MoviePreFSEmaster.BusinessLayer.dll
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\bin\Debug\netcoreapp2.2\MoviePreFSEMaster.DataLayer.dll
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\bin\Debug\netcoreapp2.2\MoviePreFSEMaster.Entities.dll
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\bin\Debug\netcoreapp2.2\MoviePreFSEmaster.BusinessLayer.pdb
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\bin\Debug\netcoreapp2.2\MoviePreFSEMaster.DataLayer.pdb
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\bin\Debug\netcoreapp2.2\MoviePreFSEMaster.Entities.pdb
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\obj\Debug\netcoreapp2.2\MoviePreFSEmaster.csprojAssemblyReference.cache
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\obj\Debug\netcoreapp2.2\MoviePreFSEmaster.AssemblyInfoInputs.cache
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\obj\Debug\netcoreapp2.2\MoviePreFSEmaster.AssemblyInfo.cs
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\obj\Debug\netcoreapp2.2\MoviePreFSEmaster.RazorAssemblyInfo.cache
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\obj\Debug\netcoreapp2.2\MoviePreFSEmaster.RazorAssemblyInfo.cs
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\obj\Debug\netcoreapp2.2\MoviePreFSEmaster.TagHelpers.input.cache
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\obj\Debug\netcoreapp2.2\MoviePreFSEmaster.TagHelpers.output.cache
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\obj\Debug\netcoreapp2.2\MoviePreFSEmaster.RazorCoreGenerate.cache
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\obj\Debug\netcoreapp2.2\MoviePreFSEmaster.RazorTargetAssemblyInfo.cache
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\obj\Debug\netcoreapp2.2\MoviePreFSEmaster.RazorTargetAssemblyInfo.cs
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\obj\Debug\netcoreapp2.2\MoviePreFSEmaster.Views.pdb
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\obj\Debug\netcoreapp2.2\MoviePreFSEmaster.csproj.CopyComplete
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\obj\Debug\netcoreapp2.2\MoviePreFSEmaster.dll
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\obj\Debug\netcoreapp2.2\MoviePreFSEmaster.pdb
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster\obj\Debug\netcoreapp2.2\MoviePreFSEmaster.genruntimeconfig.cache

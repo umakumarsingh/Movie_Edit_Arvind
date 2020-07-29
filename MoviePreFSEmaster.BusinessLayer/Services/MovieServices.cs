@@ -15,29 +15,29 @@ namespace MoviePreFSEmaster.BusinessLayer.Services
         //creating fiels for injecting dbcontext and registering mmongo collection
         private readonly IMongoDBContext _mongoContext;
         private IMongoCollection<MovieManagement> _moviedbCollection;
-       
+
 
         //injecting dbContext and geetting collection
         public MovieServices(IMongoDBContext context)
         {
             _mongoContext = context;
             _moviedbCollection = _mongoContext.GetCollection<MovieManagement>(typeof(MovieManagement).Name);
-           
+
 
         }
 
         //register new movie
-        public async Task<MovieManagement> RegisterAsync(MovieManagement movie)
+        public async Task<MovieManagement> RegisterAsync(MovieManagement movieManagement)
         {
             try
             {
-                if (movie == null)
+                if (movieManagement == null)
                 {
                     throw new ArgumentNullException(typeof(MovieManagement).Name + " object is null");
                 }
                 _moviedbCollection = _mongoContext.GetCollection<MovieManagement>(typeof(MovieManagement).Name);
-                await _moviedbCollection.InsertOneAsync(movie);
-                return movie;
+                await _moviedbCollection.InsertOneAsync(movieManagement);
+                return movieManagement;
             }
             catch (Exception ex)
             {
@@ -59,27 +59,28 @@ namespace MoviePreFSEmaster.BusinessLayer.Services
             }
         }
 
-        //Login Buyer
-        public Task<MovieManagement> Login(MovieManagement buyer)
+        //Login MovieManagement
+        public Task<MovieManagement> Login(MovieManagement movieManagement)
         {
             //write code here
             throw new NotImplementedException();
         }
 
         //change movie password
-        public Task<MovieManagement> ChangeBuyerPassword(string BuyerId, string newpassword)
+        public Task<MovieManagement> ChangeMoviePassword(string MovieId, string newpassword)
         {
-            //write code here
             throw new NotImplementedException();
         }
+      
+       
         //logout movie
-        public Task<bool> LogOut(MovieManagement buyer)
+        public Task<bool> LogOut(MovieManagement movieManagement)
         {
             //write code here
             throw new NotImplementedException();
         }
         //get movie by rId
-        public async Task<MovieManagement> GetBuyerByIdAsync(string MovieId)
+        public async Task<MovieManagement> SearchByMovieByIdAsync(string MovieId)
         {
             var objectId = new ObjectId(MovieId);
 
@@ -108,9 +109,11 @@ namespace MoviePreFSEmaster.BusinessLayer.Services
             }
         }
 
-        public Task<MovieManagement> SearchByMovieByIdAsync(string BuyerId)
-        {
-            throw new NotImplementedException();
-        }
+       
+
+
+
+
+       
     }
 }

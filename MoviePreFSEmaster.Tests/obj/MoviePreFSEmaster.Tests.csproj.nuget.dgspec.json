@@ -1,23 +1,82 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MoviePreFSEmaster\\MoviePreFSEmaster.Tests\\MoviePreFSEmaster.Tests.csproj": {}
+    "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\IIHT PROJECT\\Movie_master\\Movie_Arvind-master\\MoviePreFSEmaster.Tests\\MoviePreFSEmaster.Tests.csproj": {}
   },
   "projects": {
-    "D:\\MoviePreFSEmaster\\MoviePreFSEmaster.Tests\\MoviePreFSEmaster.Tests.csproj": {
+    "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\IIHT PROJECT\\Movie_master\\Movie_Arvind-master\\MoviePreFSEmaster.BusinessLayer\\MoviePreFSEmaster.BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MoviePreFSEmaster\\MoviePreFSEmaster.Tests\\MoviePreFSEmaster.Tests.csproj",
-        "projectName": "MoviePreFSEmaster.Tests",
-        "projectPath": "D:\\MoviePreFSEmaster\\MoviePreFSEmaster.Tests\\MoviePreFSEmaster.Tests.csproj",
-        "packagesPath": "C:\\Users\\KUMARUMA\\.nuget\\packages\\",
-        "outputPath": "D:\\MoviePreFSEmaster\\MoviePreFSEmaster.Tests\\obj\\",
+        "projectUniqueName": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\IIHT PROJECT\\Movie_master\\Movie_Arvind-master\\MoviePreFSEmaster.BusinessLayer\\MoviePreFSEmaster.BusinessLayer.csproj",
+        "projectName": "MoviePreFSEmaster.BusinessLayer",
+        "projectPath": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\IIHT PROJECT\\Movie_master\\Movie_Arvind-master\\MoviePreFSEmaster.BusinessLayer\\MoviePreFSEmaster.BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\ARVIND\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\IIHT PROJECT\\Movie_master\\Movie_Arvind-master\\MoviePreFSEmaster.BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\KUMARUMA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ARVIND\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\IIHT PROJECT\\Movie_master\\Movie_Arvind-master\\MoviePreFSEMaster.DataLayer\\MoviePreFSEMaster.DataLayer.csproj": {
+                "projectPath": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\IIHT PROJECT\\Movie_master\\Movie_Arvind-master\\MoviePreFSEMaster.DataLayer\\MoviePreFSEMaster.DataLayer.csproj"
+              },
+              "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\IIHT PROJECT\\Movie_master\\Movie_Arvind-master\\MoviePreFSEMaster.Entities\\MoviePreFSEMaster.Entities.csproj": {
+                "projectPath": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\IIHT PROJECT\\Movie_master\\Movie_Arvind-master\\MoviePreFSEMaster.Entities\\MoviePreFSEMaster.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\IIHT PROJECT\\Movie_master\\Movie_Arvind-master\\MoviePreFSEMaster.DataLayer\\MoviePreFSEMaster.DataLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\IIHT PROJECT\\Movie_master\\Movie_Arvind-master\\MoviePreFSEMaster.DataLayer\\MoviePreFSEMaster.DataLayer.csproj",
+        "projectName": "MoviePreFSEMaster.DataLayer",
+        "projectPath": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\IIHT PROJECT\\Movie_master\\Movie_Arvind-master\\MoviePreFSEMaster.DataLayer\\MoviePreFSEMaster.DataLayer.csproj",
+        "packagesPath": "C:\\Users\\ARVIND\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\IIHT PROJECT\\Movie_master\\Movie_Arvind-master\\MoviePreFSEMaster.DataLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ARVIND\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -41,6 +100,142 @@
       "frameworks": {
         "netcoreapp2.2": {
           "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\IIHT PROJECT\\Movie_master\\Movie_Arvind-master\\MoviePreFSEMaster.Entities\\MoviePreFSEMaster.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\IIHT PROJECT\\Movie_master\\Movie_Arvind-master\\MoviePreFSEMaster.Entities\\MoviePreFSEMaster.Entities.csproj",
+        "projectName": "MoviePreFSEMaster.Entities",
+        "projectPath": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\IIHT PROJECT\\Movie_master\\Movie_Arvind-master\\MoviePreFSEMaster.Entities\\MoviePreFSEMaster.Entities.csproj",
+        "packagesPath": "C:\\Users\\ARVIND\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\IIHT PROJECT\\Movie_master\\Movie_Arvind-master\\MoviePreFSEMaster.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ARVIND\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.8.1, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\IIHT PROJECT\\Movie_master\\Movie_Arvind-master\\MoviePreFSEmaster.Tests\\MoviePreFSEmaster.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\IIHT PROJECT\\Movie_master\\Movie_Arvind-master\\MoviePreFSEmaster.Tests\\MoviePreFSEmaster.Tests.csproj",
+        "projectName": "MoviePreFSEmaster.Tests",
+        "projectPath": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\IIHT PROJECT\\Movie_master\\Movie_Arvind-master\\MoviePreFSEmaster.Tests\\MoviePreFSEmaster.Tests.csproj",
+        "packagesPath": "C:\\Users\\ARVIND\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\IIHT PROJECT\\Movie_master\\Movie_Arvind-master\\MoviePreFSEmaster.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ARVIND\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\IIHT PROJECT\\Movie_master\\Movie_Arvind-master\\MoviePreFSEmaster.BusinessLayer\\MoviePreFSEmaster.BusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\IIHT PROJECT\\Movie_master\\Movie_Arvind-master\\MoviePreFSEmaster.BusinessLayer\\MoviePreFSEmaster.BusinessLayer.csproj"
+              },
+              "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\IIHT PROJECT\\Movie_master\\Movie_Arvind-master\\MoviePreFSEMaster.DataLayer\\MoviePreFSEMaster.DataLayer.csproj": {
+                "projectPath": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\IIHT PROJECT\\Movie_master\\Movie_Arvind-master\\MoviePreFSEMaster.DataLayer\\MoviePreFSEMaster.DataLayer.csproj"
+              },
+              "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\IIHT PROJECT\\Movie_master\\Movie_Arvind-master\\MoviePreFSEMaster.Entities\\MoviePreFSEMaster.Entities.csproj": {
+                "projectPath": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\IIHT PROJECT\\Movie_master\\Movie_Arvind-master\\MoviePreFSEMaster.Entities\\MoviePreFSEMaster.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[16.5.0, )"
@@ -50,6 +245,14 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.8.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.1, )"
             },
             "coverlet.collector": {
               "target": "Package",
@@ -74,7 +277,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

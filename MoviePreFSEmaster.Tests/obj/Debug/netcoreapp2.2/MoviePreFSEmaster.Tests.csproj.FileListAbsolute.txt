@@ -1,0 +1,11 @@
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster.Tests\bin\Debug\netcoreapp2.2\MoviePreFSEmaster.Tests.deps.json
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster.Tests\bin\Debug\netcoreapp2.2\MoviePreFSEmaster.Tests.runtimeconfig.json
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster.Tests\bin\Debug\netcoreapp2.2\MoviePreFSEmaster.Tests.runtimeconfig.dev.json
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster.Tests\bin\Debug\netcoreapp2.2\MoviePreFSEmaster.Tests.dll
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster.Tests\obj\Debug\netcoreapp2.2\MoviePreFSEmaster.Tests.csprojAssemblyReference.cache
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster.Tests\obj\Debug\netcoreapp2.2\MoviePreFSEmaster.Tests.AssemblyInfoInputs.cache
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster.Tests\obj\Debug\netcoreapp2.2\MoviePreFSEmaster.Tests.AssemblyInfo.cs
+C:\Users\ARVIND\Desktop\IIHT PRJ\IIHT PROJECT\Movie_Edit_Arvind-master\Movie_Edit_Arvind-master\MoviePreFSEmaster.Tests\obj\Debug\netcoreapp2.2\MoviePreFSEmaster.Tests.genruntimeconfig.cache

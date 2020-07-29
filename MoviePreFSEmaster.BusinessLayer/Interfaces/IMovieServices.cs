@@ -10,26 +10,17 @@ namespace MoviePreFSEmaster.BusinessLayer.Interface
     {
         //methods for completing all Movie  function
         
-        Task<MovieManagement> RegisterAsync(MovieManagement  allotMovie);
-        Task<MovieManagement> Login(MovieManagement allotMovie);
-        Task<MovieManagement> ChangeBuyerPassword(string BuyerId, string newpassword);
-        Task<bool> LogOut(MovieManagement buyer);
-        Task<IEnumerable<MovieManagement>> GetAllMoviesAsync();
-        Task<MovieManagement> SearchByMovieByIdAsync(string BuyerId);
-        Task<MovieManagement> AddMovieManagement(MovieManagement movieManagement);
+        Task<MovieManagement> RegisterAsync(MovieManagement movieManagement);
+        Task<MovieManagement> Login(MovieManagement movieManagement);
+        Task<MovieManagement> ChangeMoviePassword(string MovieId, string newpassword);
+        Task<bool> LogOut(MovieManagement movieManagement);
 
-        //Task<String> AddMultiplex(MultiplexManagement multiplexManagement);
-        //Task<String> AddAllotMovie(AllotMovie allotMovie);
-        //Task<IEnumerable<MovieManagement>> ViewGetAllMovies();
+        Task<IEnumerable<MovieManagement>> GetAllMoviesAsync();
+        Task<MovieManagement> SearchByMovieByIdAsync(string MovieId);
+       Task<MovieManagement> AddMovieManagement(MovieManagement movieManagement);
+    
+        
     }
 }
 
 
-//IAdminService
-////Task<IEnumerable<MovieManagement>> GetAllMovies();
-////Task<MovieManagement> SearchByMovieName(String name);
-////Task<MultiplexManagement> SearchByMultiplexName(String mname);
-//IMovieService
-//Task<String> AddMovieManagement(MovieManagement movieManagement);
-//Task<String> AddMultiplex(MultiplexManagement multiplexManagement);
-//Task<String> AddAllotMovie(AllotMovie allotMovie);
